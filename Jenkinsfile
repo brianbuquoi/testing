@@ -1,4 +1,4 @@
-  podTemplate(
+  podTemplate(label: 'prismacloud-example-builder',
     {
     containers: [
       containerTemplate(
